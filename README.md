@@ -1,2 +1,2 @@
 # palantiri
-a system of decentralized chat rooms with an emphasis on privacy and data security.
+a system of decentralized chat rooms with an emphasis on privacy and data security, in which each "room" is stored in a local "notepad" (encrypted) on the client's machine and all the dialogue is stored there (like attacking a database data if it literally does not exist?), being easily destroyed, even with this function already embedded in the system. The rooms are only accessed by those who know the name and access allowed by the creator. Yes, its name "Palantiri" is a tribute to the stones in The Lord Of The Rings that worked in the same way.
